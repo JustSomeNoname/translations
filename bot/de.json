@@ -7,7 +7,7 @@
   },
   "commands": {
     "closepoll": {
-      "description": "Schließe eine Umfrage.",
+      "description": "Schließe eine Umfrage. TEST",
       "options": {
         "id": {
           "description": "Die ID der Umfrage oder Nachricht, die geschlossen werden soll."
